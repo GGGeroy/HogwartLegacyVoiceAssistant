@@ -1,0 +1,95 @@
+{
+    "settings": {
+        "active_window": "Hogwarts Legacy"
+    },
+    "spells": {
+        "авада_кедавра": {
+            "hotkey": "f1",
+            "cooldown": 0.5
+        },
+        "Акцио": {
+            "hotkey": "6",
+            "cooldown": 0.5
+        },
+        "аресто_моментум": {
+            "hotkey": "e",
+            "cooldown": 0.5
+        },
+        "бомбарда": {
+            "hotkey": "num2",
+            "cooldown": 0.5
+        },
+        "вингардиум_левиоса": {
+            "hotkey": "num7",
+            "cooldown": 0.5
+        },
+        "глациус": {
+            "hotkey": "y",
+            "cooldown": 0.5
+        },
+        "делюминация": {
+            "hotkey": "n",
+            "cooldown": 0.5
+        },
+        "депульсо": {
+            "hotkey": "5",
+            "cooldown": 0.5
+        },
+        "десцендо": {
+            "hotkey": "7",
+            "cooldown": 0.5
+        },
+        "диффиндо": {
+            "hotkey": "0",
+            "cooldown": 0.5
+        },
+        "империус": {
+            "hotkey": "f3",
+            "cooldown": 0.5
+        },
+        "инсендио": {
+            "hotkey": "num3",
+            "cooldown": 0.5
+        },
+        "конфринго": {
+            "hotkey": "9",
+            "cooldown": 0.5
+        },
+        "круцио": {
+            "hotkey": "f2",
+            "cooldown": 0.5
+        },
+        "левиосо": {
+            "hotkey": "u",
+            "cooldown": 0.5
+        },
+        "люмос": {
+            "hotkey": "num5",
+            "cooldown": 0.5
+        },
+        "протего": {
+            "hotkey": "q",
+            "cooldown": 0.5
+        },
+        "ревелио": {
+            "hotkey": "r",
+            "cooldown": 0.5
+        },
+        "репаро": {
+            "hotkey": "num6",
+            "cooldown": 0.5
+        },
+        "трансформация": {
+            "hotkey": "o",
+            "cooldown": 0.5
+        },
+        "флиппендо": {
+            "hotkey": "8",
+            "cooldown": 0.5
+        },
+        "экспеллиармус": {
+            "hotkey": "num1",
+            "cooldown": 0.5
+        }
+    }
+}
